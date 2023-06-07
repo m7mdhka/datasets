@@ -1,0 +1,6 @@
+train: C:\Users\m.rahamneh\Minerets AI\My Auto Care\Arabic-Numbers-Detector\dataset\Dataset\train\images
+val: C:\Users\m.rahamneh\Minerets AI\My Auto Care\Arabic-Numbers-Detector\dataset\Dataset\valid\images
+test: C:\Users\m.rahamneh\Minerets AI\My Auto Care\Arabic-Numbers-Detector\dataset\Dataset\test\images
+
+nc: 10
+names: ['0', '1', '2', '3'. '4', '5'. '6', '7', '8', '9']
